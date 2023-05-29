@@ -7,7 +7,7 @@ ios_app_country                           :                                     
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://accounts.google.com/o/oauth2/auth?client_id=1087825134105-r843bm042nbrffpj9l199a6613sshlki.apps.googleusercontent.com&redirect_uri=https://zclarke.dev/psychelab&scope=https://www.googleapis.com/auth/fitness.activity.read+https://www.googleapis.com/auth/fitness.activity.write&response_type=code                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/Screenshot 2023-05-28 7.38.22 PM.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
