@@ -36,46 +36,20 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Understand Mental Health- No install required 
-    description                           : PsycheLab can passively detect which users are highest at risk of Depression, Anxiety and Mania
+  - title                                 : Collect passive sensing data 
+    description                           : Psychelab integrates with Google Fit to passively detect anomalous behavior 
     fontawesome_icon_name                 : magic
 
-
-  - title                                 : Easy API Integration
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Backed by clinical heuristics
-    description                           : Models are validated 
+  - title                                 : Communicate with your users
+    description                           : Easy text message integration to request patient surveys and feedback
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Discoer Mental Health Insights
+    description                           : Psychelab uses AI and clinical heuristics to passively detect which users are highest at risk of Depression, Anxiety and Mania
+    fontawesome_icon_name                 : mobile
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
@@ -99,7 +73,7 @@ app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#fff"
-feature_text_color                        : "#fff"
+feature_text_color                        : "#fcfcfc"
 
 feature_icons_foreground_color            : "#03ab98"
 feature_icons_background_color            : "#e6e6e6"
